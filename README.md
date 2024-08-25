@@ -1,2 +1,2 @@
-# 1.-House-pricing
-My first project where I did simple EDA and build a linear model for forecasting house prices.
+# 1.House Pricing
+Мой первый ML-проект, где я сделал простой EDA анализ и построил модель линейной регрессии для предсказания стоимости дома.
